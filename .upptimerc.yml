@@ -2,8 +2,12 @@ owner: robingenz
 repo: upptime
 
 sites:
-  - name: Robin Genz
+  - name: robingenz.dev
     url: https://robingenz.dev/
+  - name: IA
+    url: $IA_URL
+  - name: HN
+    url: $HN_URL
 
 assignees:
   - robingenz
