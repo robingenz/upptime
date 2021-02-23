@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: robingenz.dev
     url: https://robingenz.dev/
+  - name: NC
+    url: $NC_URL
   - name: IA
     url: $IA_URL
   - name: HN
