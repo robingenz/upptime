@@ -6,6 +6,8 @@ sites:
     url: https://robingenz.dev/
   - name: NC
     url: $NC_URL
+  - name: TS3 Server
+    url: $TS3_URL
   - name: IA
     url: $IA_URL
   - name: HN
