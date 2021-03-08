@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ia",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 695,
     "timeDay": 589,
     "timeWeek": 729,
     "timeMonth": 695,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2021-03-08": 0
+      "2021-03-08": 9
     }
   },
   {
@@ -80,7 +80,7 @@
     "url": "$HN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
@@ -92,6 +92,7 @@
     "timeMonth": 1163,
     "timeYear": 1163,
     "dailyMinutesDown": {
+      "2021-03-08": 0,
       "2021-03-07": 54
     }
   }
