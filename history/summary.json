@@ -4,9 +4,9 @@
     "url": "https://robingenz.dev/",
     "icon": "https://favicons.githubusercontent.com/robingenz.dev",
     "slug": "robingenz-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1368,
     "timeMonth": 1454,
     "timeYear": 1454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-16": 0
+    }
   },
   {
     "name": "NC",
@@ -23,13 +25,13 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nc",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "95.83%",
+    "uptime": "99.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 1253,
-    "timeDay": 1060,
+    "timeDay": 1120,
     "timeWeek": 1158,
     "timeMonth": 1253,
     "timeYear": 1253,
