@@ -24,9 +24,9 @@
     "url": "$NC_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -36,6 +36,7 @@
     "timeMonth": 1775,
     "timeYear": 1518,
     "dailyMinutesDown": {
+      "2021-04-20": 0,
       "2021-03-15": 60,
       "2021-03-12": 58,
       "2021-03-07": 56
@@ -46,9 +47,9 @@
     "url": "$TS3_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ts-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,16 +58,18 @@
     "timeWeek": 1166,
     "timeMonth": 1153,
     "timeYear": 1292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-20": 0
+    }
   },
   {
     "name": "IA",
     "url": "$IA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -76,6 +79,7 @@
     "timeMonth": 1178,
     "timeYear": 931,
     "dailyMinutesDown": {
+      "2021-04-20": 0,
       "2021-03-08": 18
     }
   },
@@ -84,9 +88,9 @@
     "url": "$HN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -96,6 +100,7 @@
     "timeMonth": 1612,
     "timeYear": 1399,
     "dailyMinutesDown": {
+      "2021-04-20": 0,
       "2021-03-07": 54
     }
   }
