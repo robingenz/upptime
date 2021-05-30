@@ -73,9 +73,9 @@
     "url": "$IA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
@@ -85,6 +85,7 @@
     "timeMonth": 860,
     "timeYear": 906,
     "dailyMinutesDown": {
+      "2021-05-30": 0,
       "2021-05-13": 22,
       "2021-04-20": 75,
       "2021-03-08": 18
@@ -95,9 +96,9 @@
     "url": "$HN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -107,6 +108,7 @@
     "timeMonth": 1903,
     "timeYear": 1790,
     "dailyMinutesDown": {
+      "2021-05-30": 0,
       "2021-04-20": 75,
       "2021-03-07": 54
     }
