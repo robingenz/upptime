@@ -1,7 +1,7 @@
 url: $HN_URL
-status: down
-code: 502
-responseTime: 737
-lastUpdated: 2021-10-07T21:15:58.563Z
+status: up
+code: 200
+responseTime: 2147
+lastUpdated: 2021-10-07T21:26:40.432Z
 startTime: Fri Feb 19 2021 14:58:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
