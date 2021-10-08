@@ -1,7 +1,7 @@
 url: $IA_URL
-status: down
-code: 502
-responseTime: 585
-lastUpdated: 2021-10-08T06:41:55.943Z
+status: up
+code: 200
+responseTime: 655
+lastUpdated: 2021-10-08T06:52:24.248Z
 startTime: Fri Feb 19 2021 14:58:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
