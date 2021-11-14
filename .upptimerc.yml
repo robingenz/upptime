@@ -19,6 +19,12 @@ sites:
       - "Content-Type: application/x-www-form-urlencoded"
     expectedStatusCodes:
       - 200
+  - name: KickerTracker App
+    url: $KICKERTRACKER_APP_URL
+  - name: KickerTracker API
+    url: $KICKERTRACKER_API_URL
+    expectedStatusCodes:
+      - 404
 
 assignees:
   - robingenz
