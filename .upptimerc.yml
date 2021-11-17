@@ -19,6 +19,10 @@ sites:
       - "Content-Type: application/x-www-form-urlencoded"
     expectedStatusCodes:
       - 200
+  - name: DHBW VS External API
+    url: $DHBW_VS_EXTERNAL_API_URL
+    expectedStatusCodes:
+      - 404
   - name: KickerTracker App
     url: $KICKERTRACKER_APP_URL
   - name: KickerTracker API
