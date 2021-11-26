@@ -12,6 +12,8 @@ sites:
     url: $IA_URL
   - name: HN
     url: $HN_URL
+  - name: Blog
+    url: $BLOG_URL
   - name: DHBW VS Internal API
     url: $DHBW_VS_INTERNAL_API_URL
     headers:
