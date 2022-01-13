@@ -1,7 +1,7 @@
 url: $BLOG_URL
-status: down
-code: 404
-responseTime: 805
-lastUpdated: 2022-01-13T16:26:18.730Z
+status: up
+code: 200
+responseTime: 2760
+lastUpdated: 2022-01-13T17:18:35.338Z
 startTime: Fri Nov 26 2021 17:54:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
