@@ -212,9 +212,9 @@
     "url": "$DHBW_VS_EXTERNAL_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dhbw-vs-external-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -223,7 +223,9 @@
     "timeWeek": 902,
     "timeMonth": 810,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "KickerTracker App",
