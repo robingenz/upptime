@@ -4,9 +4,9 @@
     "url": "https://robingenz.dev/",
     "icon": "https://favicons.githubusercontent.com/robingenz.dev",
     "slug": "robingenz-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "98.60%",
+    "uptimeDay": "98.58%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.90%",
@@ -186,9 +186,9 @@
     "url": "$KICKERTRACKER_APP_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kicker-tracker-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +197,9 @@
     "timeWeek": 1457,
     "timeMonth": 1374,
     "timeYear": 1082,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "KickerTracker API",
