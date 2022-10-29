@@ -12,17 +12,6 @@ sites:
     url: $HN_URL
   - name: Blog
     url: $BLOG_URL
-  - name: DHBW VS Internal API
-    url: $DHBW_VS_INTERNAL_API_URL
-    headers:
-      - "Authorization: Bearer $DHBW_VS_INTERNAL_API_AUTH_TOKEN"
-      - "Content-Type: application/x-www-form-urlencoded"
-    expectedStatusCodes:
-      - 200
-  - name: DHBW VS External API
-    url: $DHBW_VS_EXTERNAL_API_URL
-    expectedStatusCodes:
-      - 404
   - name: KickerTracker App
     url: $KICKERTRACKER_APP_URL
   - name: KickerTracker API
