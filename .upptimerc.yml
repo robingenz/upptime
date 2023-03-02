@@ -10,8 +10,6 @@ sites:
     url: $IA_URL
   - name: HN
     url: $HN_URL
-  - name: Blog
-    url: $BLOG_URL
   - name: KickerTracker App
     url: $KICKERTRACKER_APP_URL
   - name: KickerTracker API
