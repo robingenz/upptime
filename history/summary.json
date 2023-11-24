@@ -10,18 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1447,
-    "timeDay": 1214,
-    "timeWeek": 1347,
-    "timeMonth": 1235,
-    "timeYear": 1390,
+    "time": 1446,
+    "timeDay": 1470,
+    "timeWeek": 1259,
+    "timeMonth": 1246,
+    "timeYear": 1389,
     "dailyMinutesDown": {
       "2023-09-30": 22,
       "2023-05-29": 16,
       "2023-05-21": 26,
       "2023-05-11": 18,
-      "2023-02-10": 16,
-      "2022-11-24": 18
+      "2023-02-10": 16
     }
   },
   {
@@ -35,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1512,
-    "timeDay": 1491,
-    "timeWeek": 1574,
-    "timeMonth": 1552,
-    "timeYear": 1537,
+    "time": 1511,
+    "timeDay": 1649,
+    "timeWeek": 1594,
+    "timeMonth": 1540,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2023-06-13": 97
     }
@@ -56,10 +55,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1247,
-    "timeDay": 851,
-    "timeWeek": 963,
-    "timeMonth": 892,
-    "timeYear": 1260,
+    "timeDay": 985,
+    "timeWeek": 970,
+    "timeMonth": 904,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2023-11-15": 28,
       "2023-06-16": 43
@@ -76,10 +75,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2248,
-    "timeDay": 1577,
-    "timeWeek": 1362,
-    "timeMonth": 1465,
+    "time": 2249,
+    "timeDay": 2708,
+    "timeWeek": 1653,
+    "timeMonth": 1497,
     "timeYear": 2172,
     "dailyMinutesDown": {
       "2023-06-16": 43,
@@ -97,14 +96,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1355,
-    "timeDay": 1005,
-    "timeWeek": 1090,
-    "timeMonth": 1032,
+    "time": 1356,
+    "timeDay": 1508,
+    "timeWeek": 1177,
+    "timeMonth": 1052,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2023-09-30": 41,
-      "2022-11-24": 17
+      "2023-09-30": 41
     }
   },
   {
@@ -113,18 +111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kicker-tracker-api",
     "status": "down",
-    "uptime": "79.54%",
+    "uptime": "79.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.64%",
+    "uptimeYear": "59.37%",
     "time": 438,
-    "timeDay": 363,
-    "timeWeek": 353,
-    "timeMonth": 369,
-    "timeYear": 439,
+    "timeDay": 546,
+    "timeWeek": 389,
+    "timeMonth": 375,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-11-23": 3,
+      "2023-11-24": 3,
+      "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
