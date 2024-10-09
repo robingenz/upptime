@@ -1,7 +1,7 @@
 url: $HN_URL
-status: down
-code: 500
-responseTime: 1039
-lastUpdated: 2024-10-09T13:42:25.319Z
+status: up
+code: 200
+responseTime: 2652
+lastUpdated: 2024-10-09T13:51:07.785Z
 startTime: 2021-02-19T14:58:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
