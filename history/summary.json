@@ -38,19 +38,19 @@
     "url": "$TS3_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ts-3-server",
-    "status": "down",
+    "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1563,
-    "timeDay": 566,
-    "timeWeek": 1226,
-    "timeMonth": 1086,
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1562,
+    "timeDay": 1071,
+    "timeWeek": 1270,
+    "timeMonth": 1102,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 27
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 424,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-10-22": 240,
+      "2024-10-22": 266,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
