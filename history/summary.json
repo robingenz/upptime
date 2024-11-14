@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1167,
-    "timeDay": 418,
-    "timeWeek": 213,
+    "time": 1165,
+    "timeDay": 158,
+    "timeWeek": 204,
     "timeMonth": 199,
-    "timeYear": 1108,
+    "timeYear": 1105,
     "dailyMinutesDown": {
       "2024-07-18": 174,
       "2024-07-16": 27,
@@ -44,11 +44,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1559,
-    "timeDay": 591,
-    "timeWeek": 653,
-    "timeMonth": 1182,
-    "timeYear": 1540,
+    "time": 1560,
+    "timeDay": 574,
+    "timeWeek": 669,
+    "timeMonth": 1183,
+    "timeYear": 1536,
     "dailyMinutesDown": {
       "2024-10-22": 27
     }
@@ -65,15 +65,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 923,
-    "timeDay": 624,
-    "timeWeek": 709,
-    "timeMonth": 801,
-    "timeYear": 938,
+    "timeDay": 1113,
+    "timeWeek": 782,
+    "timeMonth": 818,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2024-08-28": 280,
       "2024-04-08": 15,
-      "2024-03-07": 27,
-      "2023-11-15": 28
+      "2024-03-07": 27
     }
   },
   {
@@ -87,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1466,
-    "timeDay": 895,
-    "timeWeek": 1341,
-    "timeMonth": 1414,
-    "timeYear": 1421,
+    "time": 1467,
+    "timeDay": 1839,
+    "timeWeek": 1508,
+    "timeMonth": 1428,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2024-08-28": 280,
       "2024-04-08": 15,
@@ -110,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 1471,
-    "timeDay": 1021,
-    "timeWeek": 1155,
-    "timeMonth": 1112,
-    "timeYear": 1565,
+    "timeDay": 1195,
+    "timeWeek": 1186,
+    "timeMonth": 1118,
+    "timeYear": 1564,
     "dailyMinutesDown": {
       "2024-10-09": 44,
       "2024-09-30": 59,
@@ -141,18 +140,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kicker-tracker-api",
     "status": "down",
-    "uptime": "53.67%",
+    "uptime": "53.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 411,
-    "timeDay": 377,
-    "timeWeek": 412,
-    "timeMonth": 404,
+    "timeDay": 401,
+    "timeWeek": 421,
+    "timeMonth": 406,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2024-11-13": 5,
+      "2024-11-14": 5,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -515,8 +515,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   }
 ]
