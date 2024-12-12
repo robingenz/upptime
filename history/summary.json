@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1106,
-    "timeDay": 243,
-    "timeWeek": 201,
+    "time": 1104,
+    "timeDay": 125,
+    "timeWeek": 191,
     "timeMonth": 198,
-    "timeYear": 1028,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2024-07-18": 174,
       "2024-07-16": 27,
@@ -29,8 +29,7 @@
       "2023-12-19": 137,
       "2023-12-18": 32,
       "2023-12-16": 51,
-      "2023-12-14": 17,
-      "2023-12-13": 97
+      "2023-12-14": 17
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1543,
-    "timeDay": 1561,
-    "timeWeek": 1560,
-    "timeMonth": 1255,
+    "timeDay": 1578,
+    "timeWeek": 1543,
+    "timeMonth": 1294,
     "timeYear": 1518,
     "dailyMinutesDown": {
       "2024-10-22": 27
@@ -64,11 +63,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 929,
-    "timeDay": 625,
-    "timeWeek": 950,
-    "timeMonth": 966,
-    "timeYear": 929,
+    "time": 930,
+    "timeDay": 1223,
+    "timeWeek": 984,
+    "timeMonth": 980,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2024-12-09": 29,
       "2024-08-28": 280,
@@ -87,11 +86,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1431,
-    "timeDay": 1596,
-    "timeWeek": 1508,
-    "timeMonth": 1341,
-    "timeYear": 1411,
+    "time": 1432,
+    "timeDay": 2201,
+    "timeWeek": 1652,
+    "timeMonth": 1367,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2024-12-09": 29,
       "2024-08-28": 280,
@@ -104,19 +103,18 @@
     "url": "$KICKERTRACKER_APP_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kicker-tracker-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.78%",
     "time": 1515,
-    "timeDay": 1052,
-    "timeWeek": 2594,
-    "timeMonth": 1762,
-    "timeYear": 1592,
+    "timeDay": 1271,
+    "timeWeek": 2500,
+    "timeMonth": 1756,
+    "timeYear": 1593,
     "dailyMinutesDown": {
-      "2024-12-11": 0,
       "2024-12-10": 72,
       "2024-12-08": 28,
       "2024-10-09": 44,
@@ -134,8 +132,7 @@
       "2023-12-19": 137,
       "2023-12-18": 22,
       "2023-12-16": 66,
-      "2023-12-14": 17,
-      "2023-12-13": 130
+      "2023-12-14": 17
     }
   },
   {
@@ -144,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kicker-tracker-api",
     "status": "down",
-    "uptime": "52.30%",
+    "uptime": "52.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 410,
-    "timeDay": 363,
-    "timeWeek": 434,
+    "timeDay": 379,
+    "timeWeek": 399,
     "timeMonth": 424,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2024-12-11": 1124,
+      "2024-12-12": 5,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -518,8 +516,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   }
 ]
