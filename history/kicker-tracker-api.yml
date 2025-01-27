@@ -1,7 +1,7 @@
 url: $KICKERTRACKER_API_URL
 status: down
 code: 502
-responseTime: 401
-lastUpdated: 2025-01-26T23:02:11.952Z
+responseTime: 340
+lastUpdated: 2025-01-27T23:02:09.804Z
 startTime: 2021-11-14T08:42:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
