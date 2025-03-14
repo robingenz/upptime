@@ -1,7 +1,7 @@
 url: $KICKERTRACKER_APP_URL
-status: down
-code: 502
-responseTime: 16424
-lastUpdated: 2025-03-14T14:35:57.063Z
+status: up
+code: 200
+responseTime: 1535
+lastUpdated: 2025-03-14T14:44:35.436Z
 startTime: 2021-11-14T08:42:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
