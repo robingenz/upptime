@@ -1,7 +1,7 @@
 url: $TS3_URL
-status: down
-code: 504
-responseTime: 11215
-lastUpdated: 2025-08-19T04:27:25.819Z
+status: up
+code: 200
+responseTime: 1744
+lastUpdated: 2025-08-19T04:39:50.105Z
 startTime: 2021-02-25T19:16:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
