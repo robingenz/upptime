@@ -22,18 +22,19 @@
     "url": "$TS3_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ts-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1426,
+    "time": 1406,
     "timeDay": 1498,
-    "timeWeek": 2548,
+    "timeWeek": 1565,
     "timeMonth": 1646,
     "timeYear": 1358,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-25": 15,
       "2024-10-22": 27
     }
@@ -123,7 +124,7 @@
     "timeMonth": 448,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-08-26": 5,
+      "2025-08-26": 429,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
